@@ -1,0 +1,64 @@
+/* *** EN NUESTRO SEGUNDO ESTILO LO UTILIZAMOS PARA DAR DISEÑO AL BODY, ES DECIR AL CUERPO Y PARA DAR UN FORMATO ESPECÍFICO A CADA UNA DE LAS PALABRAS, A SU VEZ PARA INGRESAR GIF EN UNAS COLUMNAS *** */
+
+body
+{
+    background: #6C160E; /*Fondo de toda la página*/
+    color: black; /*Poner color a las letras, segun donde ponga la etiqueta*/
+    background-image: url("../imagenes/fondo.jpg"); /* Ubicación de la imagen que la vamos a establecer */
+    background-repeat: no-repeat; /* Para que no se repita la imagen varias veces, sola una vez */
+    background-size: 100% 100%; /* Para el tamaño del Fondo de nuestra imagen */
+    background-attachment: scroll; /* Para mantener estática o fija la página (fixed) o corrida (scroll) */
+}
+
+/* Estilos de palabras de tipo h1 */
+
+h1
+{
+    color: black; /* color a las letras según el tipo que seleccionamos arriba */
+    font-family: Broadway; /* Tipo de letras, que vamos a usar*/
+    text-align: center; /* centrar el texto */
+}
+
+/* Estilos de palabras de tipo h4 */
+
+h4
+{
+    color: black; 
+    font-family: Lucida Calligraphy;
+}
+
+/* Estilos de palabras de tipo h3 */
+
+h3
+{
+    color: black;
+    font-family: Cooper Black;
+}
+
+/* Estilos de palabras de tipo p */
+
+p
+{
+    color: black;
+    font-family: Microsoft JhengHei UI;
+}
+
+.tipo
+{
+    color: black;
+    font-family: Microsoft JhengHei UI;
+}
+
+/* Para establecer el color blanco en el encabezado inferior*/
+
+.encabezadocolor
+{
+    color: white; 
+}
+
+/* Para establecer un gif en el encabezado inferior*/
+
+.encabezado
+{
+    background-image: url("../imagenes/encabezadou3.gif"); /* Posición de un gif en la columna  */
+}
