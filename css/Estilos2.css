@@ -2,9 +2,8 @@
 
 body
 {
-    background: #6C160E; /*Fondo de toda la página*/
+    background: white; /*Fondo de toda la página*/
     color: black; /*Poner color a las letras, segun donde ponga la etiqueta*/
-    background-image: url("../imagenes/fondo.jpg"); /* Ubicación de la imagen que la vamos a establecer */
     background-repeat: no-repeat; /* Para que no se repita la imagen varias veces, sola una vez */
     background-size: 100% 100%; /* Para el tamaño del Fondo de nuestra imagen */
     background-attachment: scroll; /* Para mantener estática o fija la página (fixed) o corrida (scroll) */
