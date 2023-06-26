@@ -1,0 +1,255 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/Estilos1.css">
+        <link rel="stylesheet" href="css/Estilos2.css">
+        <title>
+            Historia de animales en extinci&oacute;n y end&eacute;micos
+        </title>
+    </head>
+    <body>
+        <table border = "0" width = "91%" align = "center" bgcolor = "ece2c6">
+            <tr>
+                <td colspan="1">
+                    <br>
+                    <img src="imagenes/Gif....gif" width="150px" height="55px" class="img8">
+                    <br>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td align="right">
+                    <div class="social">
+                        <a href="index.html"><img src="imagenes/casita2.png" width="35px" height="20px"></a>
+                        <a href="https://www.instagram.com/alejandro_19h/?hl=es-la" target="_blank"><img src="imagenes/Insta.png" width="33px" height="20px"></a>
+                        <a href="https://account.microsoft.com/profile/?refd=outlook.live.com" target="_blank"><img src="imagenes/correo.png" width="40px" height="20px"></a>
+                        <a href="Comentarios.html"><img src="imagenes/comentarios.png" width="33px" height="20px"></a>
+
+                    </div>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        <table border = "0" width = "90%" align = "center" bgcolor="#ece2c6">
+            <tr>
+                <td colspan="5" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+               
+                <!--Introducción del baner y el logo de la carrera-->
+
+                <td class="encabezado">&nbsp;</td>
+                <td colspan="1" class="encabezado">
+                    <center><img src="imagenes/Gif....gif" width="500px" height="250px" class="img9"></center>
+                </td>
+                <td class="encabezado">&nbsp;</td>
+                <td colspan="1" class="encabezado">
+                    <center><img src="imagenes/Sistemas.jpg" width="200px" height="85px" class="img10"></center>
+                </td>
+                <td class="encabezado">&nbsp;</td>
+            </tr>
+            <br>
+            <tr>
+                <!--Introducción del número telefónico debajo del logo de la carrera-->
+
+                <td class="encabezado">&nbsp;</td>
+                <td class="encabezado">
+                    &nbsp;
+                </td>
+                <td class="encabezado">&nbsp;</td>
+                <td align="center" class="encabezado">
+                    <h3 class="encabezadocolor">CELULAR: 0989393844</h3>
+                </td>
+                <td class="encabezado">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="5" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <!-- Ingreso de una línea horizontal -->
+
+                <td colspan="5" align="center" bgcolor="black">
+                    <br>
+                    <hr style="border:3px dotted white; width:1200px">
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" align="right">
+                    <ul>
+                        <li>
+                            <br>
+                            <a href="index.html">VOLVER AL INICIO</a>
+                            &nbsp;
+                            &nbsp;
+                            &nbsp;
+                            &nbsp;
+                            <a href="Blog de los animales endémicos.html">SIGUIENTE</a>
+                            <br>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" align="center" bgcolor="#7e2222">
+                    <h1>
+                        <br>
+                        &ldquo; ANIMALES EN EXTINCIÓN &ldquo;
+                        <br>
+                    </h1>
+                </td>
+            </tr>
+            <td colspan="5" bgcolor="#6C160E">
+                <br>
+                <table border="0">
+                    <tr>
+                        <!--Imágen grande vertical -->
+                        <td rowspan="6" bgcolor="#7e2222">
+                            <img src="imagenes/animales extincion vertical.jpg" width="300px" height="1250px" class="img5">
+                        </td>
+                        <td bgcolor="#ece2c6">
+                            <fieldset>
+                                <legend align="center">
+                                    <h3>&ldquo; Cóndor andino &ldquo;</h3>
+                                </legend>
+                                <center><img src="imagenes/condor_andino.jpg" width="200px" height="150px" class="img4"></center>
+                                <br>
+                                <h3><li type="disc">Nombre científico: Vultur gryphus </li></h3>
+                                <p><li type="disc">El cóndor andino es una ave muy enorme que se encuentra entre las más grandes del mundo capaces de volar, ya que su pesa hasta 15 kilogramos, e incluso la envergadura que posee dicha ave es de 3 metros. El ligar del hábitat del cóndor es en zonas montañosas ...</li></p>
+                            </fieldset>
+                        </td>
+                        <td bgcolor="#7e2222">
+                            <fieldset>
+                                <legend align="center">
+                                    <h3>&ldquo; Armadillo gigante &ldquo;</h3>
+                                </legend>
+                                <center><img src="imagenes/armadillo.jpg" width="200px" height="150px" class="img4"></center>
+                                <br>
+                                <h3><li type="disc">Nombre científico: Priodonte maximus</li></h3>
+                                <p><li type="disc">El armadillo gigante, llega a tener un tamaño de 150 a 196 cm de longitud, cuyo peso es de 60kg. Su alimentación de basa en insectos, habita en la gran parte de bosques húmedos, la cual se encuentra en peligro de extinción en zonas como Ecuador debido a la caza que producen ...</li></p>
+                            </fieldset>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            &nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#7e2222">
+                            <fieldset>
+                                <legend align="center">
+                                    <h3>&ldquo; Delfín rosado &ldquo;</h3>
+                                </legend>
+                                <center><img src="imagenes/delfin.jpg" width="200px" height="150px" class="img4"></center>
+                                <br>
+                                <h3><li type="disc">Nombre científico: Inia geoffrensis</li></h3>
+                                <p><li type="disc">Aquel animal que vive en ríos, lagunas y pantanos, las cuales están conectados al río Amazonas, está en peligro por la construcción de represas que se está llevando a cabo y por la pesca con redes, a su vez aquel delfín es víctima de la contaminación ...  </li></p>
+                            </fieldset>
+                            <td bgcolor="#ece2c6">
+                                <fieldset>
+                                    <legend align="center">
+                                        <h3>&ldquo; Nutria gigante &ldquo;</h3>
+                                    </legend>
+                                    <center><img src="imagenes/nutria.jpg" width="200px" height="150px" class="img4"></center>
+                                    <br>
+                                    <h3><li type="disc">Nombre científico: Pteronura brasiliensis</li></h3>
+                                    <p><li type="disc">Estos animales están en peligro de extinción en Ecuador, ya que son muy sensibles a los cambios de su hogar, como los ríos y lagunas, por la cual no tienen un solo lugar de residencia, por lo cual ellas habitan en Sucumbíos, Orellana, Napo, Pastaza, Morona Santiago, Zamora Chinchipe ...</li></p>
+                                </fieldset>
+                            </td>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="5">
+                            &nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ece2c6">
+                            <fieldset>
+                                <legend align="center">
+                                    <h3>&ldquo; Cocodrilo de la costa &ldquo;</h3>
+                                </legend>
+                                <center><img src="imagenes/cocodrilo.jpg" width="200px" height="150px" class="img4"></center>
+                                <br>
+                                <h3><li type="disc">Nombre científico: Crocodylus acutus</li></h3>
+                                <p><li type="disc">Aquel reptil predador semiacuático se encuentra en peligro de extinción desde el 2007, es una cazador que se aprovecha casi cualquier presa que estén cerca de él, uno de sus sentidos que destaca a la perfección son la vista y el olfato ... </li></p>
+                            </fieldset>
+                        </td>
+                        <td bgcolor="#7e2222">
+                            <fieldset>
+                                <legend align="center">
+                                    <h3>&ldquo; Colibrí picoespada  &ldquo;</h3>
+                                </legend>
+                                <center><img src="imagenes/colibrí.jpg" width="200px" height="150px" class="img4"></center>
+                                <br>
+                                <h3><li type="disc">Nombre científico: Ensifera ensifera</li></h3>
+                                <p><li type="disc">El colibrí pico espada es una de las especies que habita en los Andes, la cual es una de las aves más extrañas de Ecuador, pues posee un pico que mide hasta unos 10cm de largo y una lengua sumamente grande también, en donde les permiten succionar el néctar de las plantas ...</li></p>
+                            </fieldset>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <tr>
+                <td colspan="6" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+
+                <!-- Ingreso de una línea horizontal entrecortada -->
+
+                <td colspan="5" align="center" bgcolor="black">
+                    <br>
+                    <hr style="border:3px dotted white; width:1200px">
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6" bgcolor="#6C160E">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr align="center">
+
+                <!-- Ingreso del encabezado -->
+
+                <td colspan="1" bgcolor="#7e2222" class="encabezado">
+                    <br>
+                    <h3 class="encabezadocolor">
+                        NOMBRE: JEAN PIERE GARNICA
+                    </h3>
+                    <br>
+                </td>
+                <td bgcolor="#7e2222" class="encabezado">
+                    <br>
+                    <h3 class="encabezadocolor">
+                        CICLO: QUINTO "A"
+                    </h3>
+                    <br>
+                </td>
+                <td bgcolor="#6C160E" class="encabezado">&nbsp;</td>
+                <td bgcolor="#7e2222" class="encabezado">
+                    <br>
+                    <h3 class="encabezadocolor">
+                        ASIGNATURA: INTERFACES
+                    </h3>
+                    <br>
+                </td>
+                <td bgcolor="#6C160E" class="encabezado">&nbsp;</td>
+            </tr>
+        </table>
+    </body>
+</html>
